@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="C:\Users\HP Laptop 15\Downloads\0ecd85fb-877c-4980-917a-4cfd50a62417.png" width="100%" alt="Sumiara Binte Rafiq - Tech Enthusiast Banner"/>
+<img src="./assets/banner.png" width="100%" alt="Sumiara Binte Rafiq - Tech Enthusiast Banner"/>
 
 </div>
 
