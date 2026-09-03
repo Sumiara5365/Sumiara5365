@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[./assets/banner.png](https://chatgpt.com/backend-api/estuary/content?id=file_00000000e1188211a28f675b5822a100&ts=496787&p=fs&cid=1&sig=b54cbf7ab2aab56610d030dc240d2e3039030ef62df08946388c9a8128af0cbf&v=0)" width="100%" alt="Sumiara Binte Rafiq - Tech Enthusiast Banner"/>
+<img src="[./assets/banner.png](https://chatgpt.com/backend-api/estuary/content?id=file_00000000e1188211a28f675b5822a100&ts=496787&p=fs&cid=1&sig=b54cbf7ab2aab56610d030dc240d2e3039030ef62df08946388c9a8128af0cbf&v=0" width="100%" alt="Sumiara Binte Rafiq - Tech Enthusiast Banner"/>
 
 </div>
 
@@ -97,7 +97,7 @@ A machine learning project focused on classifying ovarian cancer stages using **
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumiara5365&hide_border=true" width="95%"/>
 
 </div>
 
@@ -109,7 +109,7 @@ A machine learning project focused on classifying ovarian cancer stages using **
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Sumiara5365">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
