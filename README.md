@@ -67,7 +67,8 @@ A machine learning project focused on classifying ovarian cancer stages using **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sumiara5365&show_icons=true&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumiara5365&hide_border=true" height="170"/>
 
 
 
