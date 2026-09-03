@@ -91,13 +91,6 @@ A machine learning project focused on classifying ovarian cancer stages using **
 
 </div>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumiara5365&hide_border=true" width="70%"/>
-
-</div>
 
 
 ## 🌐 Connect With Me
