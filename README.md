@@ -75,47 +75,15 @@ A machine learning project focused on classifying ovarian cancer stages using **
 
 </div>
 
-## 💻 Most Used Languages
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumiara5365&layout=compact&langs_count=8&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sumiara5365&show_icons=true&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumiara5365&hide_border=true" height="170"/>
 
 </div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sumiara5365/Sumiara5365/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumiara5365&hide_border=true" width="95%"/>
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sumiara-binte-rafiq-87b4a0281?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sumiara5365">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 ### 💡 Learn • Build • Grow • Inspire
 
