@@ -1,49 +1,50 @@
-# Hi, I'm Sumiara 👋
+<div align="center">
 
-### Aspiring Full-Stack Web Developer | Educator | Tech Enthusiast
+<img src="[./assets/banner.png](https://chatgpt.com/backend-api/estuary/content?id=file_00000000e1188211a28f675b5822a100&ts=496787&p=fs&cid=1&sig=b54cbf7ab2aab56610d030dc240d2e3039030ef62df08946388c9a8128af0cbf&v=0)" width="100%" alt="Sumiara Binte Rafiq - Tech Enthusiast Banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sumiara&fontSize=50&fontAlignY=35&desc=Aspiring%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%"/>
+</div>
+
+# 👋 Hi, I'm Sumiara Binte Rafiq
+
+### Aspiring Full-Stack Web Developer | Tech Enthusiast
 
 ## 👩‍💻 About Me
 
-I am a Computer Science graduate from Daffodil International University with a strong passion for technology and software development. I enjoy building practical, user-friendly applications and continuously exploring new technologies. My interests span both frontend and backend development, along with data analysis and machine learning.
+I am a Computer Science graduate from **Daffodil International University** with a strong passion for technology and software development. I enjoy building practical, user-friendly applications and exploring how technology can solve real-world problems.
 
-I am passionate about turning ideas into functional projects, solving real-world problems through technology, and continuously growing as a developer.
+My interests include **frontend and backend development, databases, data analysis, and machine learning**. I love learning new technologies, working on meaningful projects, and continuously improving my skills as a developer.
 
-## 🌱 Currently
+## 🌱 Currently Working On
 
-- ⚛️ Building projects with React and modern frontend technologies
-- 💻 Strengthening my backend development skills
-- 🗄️ Working with MySQL and relational databases
-- 🐍 Exploring Python for data analysis and machine learning
-- 🤖 Learning and experimenting with Machine Learning
-- 🚀 Continuously improving my problem-solving and software development skills
+* ⚛️ Building web applications with **React**
+* 💻 Strengthening my **frontend and backend development** skills
+* 🗄️ Working with **MySQL and relational databases**
+* 🔧 Exploring **Node.js, Express.js and REST APIs**
+* 🐍 Working with **Python for data analysis and machine learning**
+* 🤖 Exploring Machine Learning and AI
+* 🚀 Building practical projects and continuously improving my development skills
 
-## 🛠️ Tools & Technologies
+## 🛠️ Skills & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,nodejs,express,mysql,git,github,vscode" />
-</p>
+<div align="center">
 
-## 💻 What I Work With
+### Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 
-**Frontend:** HTML5, CSS3, JavaScript, TypeScript, React
+### Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Backend & Database:** Node.js, Express.js, MySQL, REST APIs
+### Database & Data
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,python" />
 
-**Data & Development Tools:** Python, Git, GitHub, VS Code
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -51,38 +52,75 @@ I am passionate about turning ideas into functional projects, solving real-world
 
 A modern conference website designed to showcase event information, speakers, registration and other important details through a clean and engaging interface.
 
-**Technologies:** HTML, CSS, JavaScript
+**Tech Stack:** HTML • CSS • JavaScript
 
-### 🧬 Ovarian Cancer Stage Classification
-
-A machine learning project focused on classifying ovarian cancer stages using TCGA-OV clinical and molecular data. The project explores data preprocessing, feature selection, class balancing and multiple machine learning models.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, SHAP
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" height="170"/>
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumiara5365&layout=compact&hide_border=true" />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumiara-binte-rafiq-87b4a0281?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Sumiara5365/Sumiara5365">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+🔗 **[View Repository](YOUR_DEVCONF_REPOSITORY_URL)**
+🌐 **[Live Demo](YOUR_DEVCONF_LIVE_URL)**
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 🧬 Ovarian Cancer Stage Classification
+
+A machine learning project focused on classifying ovarian cancer stages using **TCGA-OV clinical and molecular data**. The project includes data preprocessing, feature selection, class balancing, multiple machine learning models and SHAP-based explainability.
+
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • XGBoost • LightGBM • SHAP
+
+🔗 **[View Repository][https://github.com/Sumiara5365/ovarian-cancer-prediction-with-tcga-dataset]
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sumiara5365&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" height="180"/>
+
+</div>
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumiara5365&layout=compact&langs_count=8&hide_border=true" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true" width="95%"/>
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sumiara-binte-rafiq-87b4a0281?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Learn • Build • Grow • Inspire
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
