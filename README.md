@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[./assets/banner.png](https://chatgpt.com/backend-api/estuary/content?id=file_00000000e1188211a28f675b5822a100&ts=496787&p=fs&cid=1&sig=b54cbf7ab2aab56610d030dc240d2e3039030ef62df08946388c9a8128af0cbf&v=0" width="100%" alt="Sumiara Binte Rafiq - Tech Enthusiast Banner"/>
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000e1188211a28f675b5822a100&ts=496787&p=fs&cid=1&sig=b54cbf7ab2aab56610d030dc240d2e3039030ef62df08946388c9a8128af0cbf&v=0" width="100%" alt="Sumiara Binte Rafiq - Tech Enthusiast Banner"/>
 
 </div>
 
