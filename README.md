@@ -69,12 +69,31 @@ A machine learning project focused on classifying ovarian cancer stages using **
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sumiara5365&show_icons=true&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumiara5365&hide_border=true" height="170"/>
+
 
 </div>
 
 
 ## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sumiara-binte-rafiq-87b4a0281">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sumiara5365">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! ✨
+</p>
+
 
 
 ### 💡 Learn • Build • Grow • Inspire
