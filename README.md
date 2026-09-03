@@ -54,8 +54,6 @@ A modern conference website designed to showcase event information, speakers, re
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 **[View Repository](YOUR_DEVCONF_REPOSITORY_URL)**
-🌐 **[Live Demo](YOUR_DEVCONF_LIVE_URL)**
 
 ---
 
@@ -65,7 +63,7 @@ A machine learning project focused on classifying ovarian cancer stages using **
 
 **Tech Stack:** Python • Pandas • NumPy • Scikit-learn • XGBoost • LightGBM • SHAP
 
-🔗 **[View Repository][https://github.com/Sumiara5365/ovarian-cancer-prediction-with-tcga-dataset]
+
 
 ## 📊 GitHub Statistics
 
@@ -89,7 +87,7 @@ A machine learning project focused on classifying ovarian cancer stages using **
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Sumiara5365/Sumiara5365/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
